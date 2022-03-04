@@ -1,0 +1,6 @@
+module Pods_Open311_Open311Tests {
+  umbrella header "Pods-Open311-Open311Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
